@@ -1,0 +1,20 @@
+{
+  "name": "pz87-project07_student_management",
+  "version": "2.0.0",
+  "description": "A student management system is a software application used by educational institutions to manage student data",
+  "main": "index.js",
+  "type":"module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
